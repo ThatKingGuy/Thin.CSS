@@ -9,7 +9,7 @@
         <link rel="stylesheet" href="css/button.css">
         <link rel="stylesheet" href="css/form.css">
         <link rel="stylesheet" href="css/margin.css">
-        <title>Documentation - Materialize</title>
+        <title>Documentation - Thin.CSS</title>
     </head>
 
 </html>
