@@ -38,7 +38,7 @@ include("header.php");
     <h2 class="mt-2 text-center width-full title">Showcase</h2>
     <p style="display: block; overflow: auto;
     width: 50%; max-width: 50%;
-    margin: 0 auto; " class="text-center mb-5">Checkout what people are creating with Materialize. Get inspired by these
+    margin: 0 auto; " class="text-center mb-5">Checkout what people are creating with Thin.css. Get inspired by these
         beautiful sites and you can even submit your own website to be showcased here.
     </p><br><br>
     <button style="display: block; margin: 0 auto; " class="btn btn-hover w-24">Explore our Showcase</button>
@@ -46,7 +46,7 @@ include("header.php");
     <h2 class="mt-2 text-center width-full title">Themes</h2>
     <p style="display: block; overflow: auto;
     width: 50%; max-width: 50%;
-    margin: 0 auto; " class="text-center mb-5">Take a look at our official themes for Materialize.
+    margin: 0 auto; " class="text-center mb-5">Take a look at our official themes for Thin.css.
     </p><br><br>
     <img style="display: block; overflow: auto;
     margin: 0 auto; " width="27%" height="auto" src="img/theme.png" alt="Themes"><br>
@@ -55,8 +55,8 @@ include("header.php");
 
     <div class="grid-container py-4">
         <div class="grid-item">
-            <h3 class="title">Help Materialize Grow</h3>
-            <p class="px-5 text-center mb-2">We hope you have enjoyed using Materialize and if you feel like it has
+            <h3 class="title">Help Thin.css Grow</h3>
+            <p class="px-5 text-center mb-2">We hope you have enjoyed using Thin.css and if you feel like it has
                 helped you out and want to support the team you can help us by donating or backing us on Patreon. Any
                 amount would help support and continue development on this project and is greatly appreciated.</p>
             <button style="display: block; margin: 0 auto; " class="btn btn-hover">Support Us</button>
